@@ -20,7 +20,7 @@ A small command‑line Tic‑Tac‑Toe game written in Rust. The program lets tw
 1. Install a recent Rust toolchain (rustup) if you do not have it already.
 2. Clone the repository:
    ```bash
-   git clone <repository‑url>
+   git clone https://github.com/Morshed004/cli-tic-tac-toe-rust.git
    cd rust_learn
    ```
 3. Build the project:
